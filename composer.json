@@ -3,6 +3,7 @@
     "description": "South Coast Web Helper Classes",
     "licence": "MIT",
     "type": "project",
+    "url": "https://www.southcoastweb.co.uk",
     "authors": [
         {
             "name": "Kenny Turner",
@@ -17,4 +18,5 @@
     "require": {
         "php": ">=5.4.0"
     },
+    "minimum-stability": "dev"
 }
