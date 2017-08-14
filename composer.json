@@ -1,4 +1,6 @@
 {
     "name" : "southcoastweb/helpers",
-    "description" : "Helper classes for use"
+    "description" : "Helper classes for use",
+    "version": "1.0.0",
+    "min-stability": "dev"
 }
