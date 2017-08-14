@@ -31,7 +31,7 @@ Class with multiple methods providing 'useful' functionality.
 
 ## License
 
-L5Modular is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT)
+Helpers is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT)
 (See LICENSE file for details).
 
 ---
