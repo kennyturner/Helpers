@@ -5,5 +5,28 @@
             "url": "https://github.com/southcoastweb/Helpers",
         }
     ],
+<<<<<<< HEAD
     "minimum-stability": "dev"
+=======
+    "authors": [
+        {
+            "name": "Kenny Turner",
+            "email": "kenny@southcoastweb.co.uk"
+        },
+        {
+            "name": "Myles Duncan-King",
+            "email": "myles@southcoastweb.co.uk"
+        }
+    ],
+    "version": "1.0.0",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.0"
+        }
+    }
+>>>>>>> 4db13349786dbcb50e0ce52560752046ff2c65a8
 }
