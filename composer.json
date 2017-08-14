@@ -1,7 +1,7 @@
 {
     "repositories": [
         {
-            "type": "vcs"
+            "type": "vcs",
             "url": "https://github.com/southcoastweb/helpers",
         }
     ],
