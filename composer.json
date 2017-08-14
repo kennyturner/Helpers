@@ -1,10 +1,3 @@
 {
-    "repositories": [
-        {
-            "type": "vcs"
-            "url": "https://github.com/southcoastweb/helpers",
-        }
-    ],
 
-    "minimum-stability": "dev"
 }
