@@ -3,6 +3,12 @@
     "description": "South Coast Web Helper Classes",
     "licence": "MIT",
     "url": "https://www.southcoastweb.co.uk",
+    "repositories": [
+        {
+            "url": "https://github.com/southcoastweb/Helpers",
+            "type": "vcs"
+        }
+    ],
     "authors": [
         {
             "name": "Kenny Turner",
@@ -13,15 +19,8 @@
             "email": "myles@southcoastweb.co.uk"
         }
     ],
-    "repositories": [
-        {
-            "url": "https://github.com/southcoastweb/Helpers",
-            "type": "vcs"
-        }
-    ],
     "version": "1.0.0",
     "require": {
         "php": ">=5.4.0"
     },
-    "minimum-stability": "stable"
 }
