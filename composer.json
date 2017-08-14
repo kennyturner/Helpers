@@ -8,5 +8,5 @@
             "southcoastweb\\helpers" : "src"
         }
     },
-    "min-stability": "dev",
+    "min-stability": "dev"
 }
