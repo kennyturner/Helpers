@@ -1,5 +1,18 @@
 {
     "name": "southcoastweb/useful",
+    "description": "South Coast Web Helper Classes",
+    "licence": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Kenny Turner",
+            "email": "kenny@southcoastweb.co.uk"
+        },
+        {
+            "name": "Myles Duncan-King",
+            "email": "myles@southcoastweb.co.uk"
+        }
+    ],
     "version": "1.0.0",
     "require": {
         "php": ">=5.4.0"
