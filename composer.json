@@ -14,9 +14,15 @@
             "email": "myles@southcoastweb.co.uk"
         }
     ],
+    "repositories": [
+        {
+            "url": "https://github.com/southcoastweb/Helpers.git",
+            "type": "git"
+        }
+    ],
     "version": "1.0.0",
     "require": {
         "php": ">=5.4.0"
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
