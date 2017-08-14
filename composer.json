@@ -16,8 +16,8 @@
     ],
     "repositories": [
         {
-            "url": "https://github.com/southcoastweb/Helpers.git",
-            "type": "git"
+            "url": "https://github.com/southcoastweb/Helpers",
+            "type": "vcs"
         }
     ],
     "version": "1.0.0",
