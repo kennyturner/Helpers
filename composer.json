@@ -1,19 +1,3 @@
 {
-<<<<<<< HEAD
 
 }
-=======
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/southcoastweb/helpers",
-            "branch": "master"
-        }
-    ],
-    "minimum-stability": "dev"
-<<<<<<< HEAD
-}
->>>>>>> aca696ed781e6452886232f1a739c3663f0802bb
-=======
-}
->>>>>>> aca696ed781e6452886232f1a739c3663f0802bb
