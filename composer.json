@@ -1,16 +1,25 @@
 {
-    "name": "southcoastweb/helpers",
-    "description": "Helper classes for use in various projects",
-    "type": "library",
-    "require": {
-        "php": ">=5.6.0"
-    },
-    "license": "MIT",
+    "name": "southcoastweb/Helpers",
+    "description": "South Coast Web Helper Classes",
+    "licence": "MIT",
+    "type": "project",
+    "url": "https://www.southcoastweb.co.uk",
     "authors": [
         {
-            "name": "southcoastweb",
+            "name": "Kenny Turner",
             "email": "kenny@southcoastweb.co.uk"
+        },
+        {
+            "name": "Myles Duncan-King",
+            "email": "myles@southcoastweb.co.uk"
         }
     ],
-    "minimum-stability": "dev"
+    "version": "1.0.0",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"southcoastweb\\Helpers\\": "src/Helpers"}
+    }
 }

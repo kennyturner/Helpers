@@ -1,10 +1,9 @@
 <?php
-namespace App\Helpers;
+namespace southcoastweb\Helpers;
 
 use Config;
 
 class Useful {
-
     // returns current page without http
 	public static function cpage()
     {

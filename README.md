@@ -1,4 +1,4 @@
-# Helpers-
+# Helpers
 This package gives you the ability to use South Coast Web's helper classes.
 
 
